@@ -8,9 +8,9 @@ export const Main = () => {
     <StyledMain>
       <FlexWrapper align={"center"} justify={"space-around"}>
         <div>
-          <span>Hi There</span>
-          <MainName>I am Jason Momoa</MainName>
-          <MainTitle>Aquaman</MainTitle>
+          <span>Hi</span>
+          <MainName>I'm Jason Momoa</MainName>
+          <MainTitle>Aquaman & Guinness enthusiast</MainTitle>
         </div>
         <Photo src={photo} alt="" />
       </FlexWrapper>

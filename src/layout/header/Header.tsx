@@ -14,8 +14,11 @@ export const Header = () => {
   );
 };
 
+
 const SlyledHeader = styled.header`
-  background-color: #dcd6c1;
+  background-color: #252527b7;
   display: flex;
   justify-content:space-between;
+  position: fixed;
+  width: 100%;
 `;

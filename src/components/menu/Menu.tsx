@@ -24,5 +24,13 @@ const StyledMenu = styled.nav`
     display: flex;
     gap: 30px;
     justify-content:center;
+    
+    list-style-type: none;
+
+  }
+
+  ul > li > a {
+    color: white;
+    text-decoration: none;
   }
 `;
